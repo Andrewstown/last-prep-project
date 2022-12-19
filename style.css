@@ -1,3 +1,7 @@
 body {
-    background: blue;
+    background: rgba(125, 0, 255, 0.5);
+}
+
+h1 {
+    font-family: sans-serif;
 }
